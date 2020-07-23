@@ -12,12 +12,12 @@ View the detailed [docs](https://blazorstyled.io) at https://blazorstyled.io.
 
 ## Why BlazorStyled?
 
-* Maintain your css inside your component instead of a seperate file
+* Maintain your CSS inside your component instead of a seperate file
 * Eliminate all collisions - no need to use !important
-* No need to worry about depoying css files - great for libraries
-* css are C# strings - use variables instead of solutions like sass
+* No need to worry about depoying CSS files - great for libraries
+* CSS are C# strings - use variables instead of solutions like SASS
 
-### Insperation
+### Inspiration
 
 * [Emotion](https://emotion.sh/docs/introduction)
 * [Glamorous](https://glamorous.rocks/)
